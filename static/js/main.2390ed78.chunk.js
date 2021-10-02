@@ -1,0 +1,2 @@
+(this["webpackJsonpbwinsley.github.io"]=this["webpackJsonpbwinsley.github.io"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);t(1);var i=t(3),r=t.n(i),s=(t(8),t(0));var c=function(){return Object(s.jsx)("div",{children:"Herei"})};r.a.render(Object(s.jsx)(c,{}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.2390ed78.chunk.js.map
