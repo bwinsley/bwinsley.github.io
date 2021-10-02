@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bwinsley.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/bwinsley.github.io/static/js/main.658fe294.chunk.js",
+    "main.js.map": "/bwinsley.github.io/static/js/main.658fe294.chunk.js.map",
+    "runtime-main.js": "/bwinsley.github.io/static/js/runtime-main.3cb245fd.js",
+    "runtime-main.js.map": "/bwinsley.github.io/static/js/runtime-main.3cb245fd.js.map",
+    "static/js/2.e300abc6.chunk.js": "/bwinsley.github.io/static/js/2.e300abc6.chunk.js",
+    "static/js/2.e300abc6.chunk.js.map": "/bwinsley.github.io/static/js/2.e300abc6.chunk.js.map",
+    "static/js/3.42026582.chunk.js": "/bwinsley.github.io/static/js/3.42026582.chunk.js",
+    "static/js/3.42026582.chunk.js.map": "/bwinsley.github.io/static/js/3.42026582.chunk.js.map",
+    "index.html": "/bwinsley.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bwinsley.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e300abc6.chunk.js.LICENSE.txt": "/bwinsley.github.io/static/js/2.e300abc6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bwinsley.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb245fd.js",
+    "static/js/2.e300abc6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.658fe294.chunk.js"
+  ]
+}
